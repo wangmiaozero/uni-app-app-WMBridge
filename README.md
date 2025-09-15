@@ -113,6 +113,6 @@ Add a new method end-to-end:
 
 License
 -------
-MIT
+[MIT](./LICENSE) — Free for learning and commercial use.
 
 

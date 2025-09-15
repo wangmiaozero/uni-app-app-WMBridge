@@ -113,6 +113,6 @@ Start
 
 License
 -------
-MIT
+[MIT](./LICENSE) — 允许学习与商业使用。
 
 
